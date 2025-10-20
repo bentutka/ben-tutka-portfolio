@@ -11,14 +11,14 @@ Here you’ll find a collection of projects demonstrating my technical and analy
 
 ## Featured Projects
 
-### [🌦️ Weather Forecasting using SARIMA](./weather-forecasting-sarima)
+### [Weather Forecasting using SARIMA](./weather-forecasting-sarima)
 *Python, statsmodels, pandas, matplotlib*  
 Forecasted daily temperatures using Holt-Winters and SARIMA time series models.  
 - Improved prediction RMSE by **15%**  
 - Built modular Jupyter notebooks for model comparison and visualization  
 
 
-## 🧠 Skills & Tools
+## Skills & Tools
 **Languages:** Python (NumPy, pandas, scikit-learn), R, SQL, C++, Java  
 **Libraries:** statsmodels, matplotlib, seaborn, ggplot2  
 **Tools:** Jupyter Notebook, Tableau, Git, AWS, Azure  
@@ -26,7 +26,7 @@ Forecasted daily temperatures using Holt-Winters and SARIMA time series models.
 
 ---
 
-## 🔗 Connect with Me
-📧 **Email:** [ben.tutka@gmail.com](mailto:ben.tutka@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/bztutka](https://linkedin.com/in/bztutka)  
-🌐 **Portfolio:** [github.com/bentutka](https://github.com/bentutka)
+## Connect with Me
+**Email:** [ben.tutka@gmail.com](mailto:ben.tutka@gmail.com)  
+**LinkedIn:** [linkedin.com/in/bztutka](https://linkedin.com/in/bztutka)  
+**Portfolio:** [github.com/bentutka](https://github.com/bentutka)
